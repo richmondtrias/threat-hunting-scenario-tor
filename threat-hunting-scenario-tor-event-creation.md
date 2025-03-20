@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Richmond Trias
 - **Author Contact**: https://www.linkedin.com/in/richmondtrias/
-- **Date**: August 31, 2024
+- **Date**: March 20, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Richmond Trias`   
+| 1.0         | Initial draft                  | `March 20 2025`  | `Richmond Trias`   
